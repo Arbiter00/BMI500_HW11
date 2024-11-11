@@ -6,7 +6,7 @@ BMI 500 Course Homework Week11
 **Contact**: ylai76@emory.edu
 
 ## Question Selected
-**Question**: Sensitivity Analysis of the SEIR Model with Births and Deaths (Section D and E)
+**Question**: Sensitivity Analysis of the SEIR Model with Births and Deaths
 
 ## Key Insights
 The SEIR model analysis provided critical insights into how introducing an exposed compartment and including birth and death rates influence the dynamics of a pandemic. The sensitivity analysis demonstrated:
