@@ -13,6 +13,7 @@ The SEIR model analysis provided critical insights into how introducing an expos
 - **Infection Peaks**: The timing and magnitude of peak infections are highly sensitive to changes in the transmission rate $(\beta)$ and recovery rate $(\gamma)$.
 - **Total Infections**: Variations in $(\beta)$ and $(\gamma)$ affect the pandemic's total number of infected individuals.
 - **Pandemic Waves**: The model indicated that multiple waves of infection could occur with certain parameter values, resembling real-world pandemic behavior.
+- **Detail Analysis**: Shown in the Jupyternotebook File
 
 ## Comparative Model Performance
 Comparisons between the SIR and SEIR models highlighted that:
