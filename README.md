@@ -1,6 +1,8 @@
 # BMI500_HW11
 BMI 500 Course Homework Week11
 
+**Disclaimer:** Chatgpt is used for language polishing and code debugging. 
+
 ## Author Information
 **Name**: Yuxiang Lai  
 **Contact**: ylai76@emory.edu
@@ -36,4 +38,4 @@ To improve upon the current SEIR model:
 
 These enhancements would make the model more adaptable for public health planning and more representative of complex real-world scenarios.
 
-**Disclaimer:** Chatgpt are used for language polishing and code debugging. 
+
