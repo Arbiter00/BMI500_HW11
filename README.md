@@ -35,3 +35,5 @@ To improve upon the current SEIR model:
 - **Agent-Based Modeling**: Transition to agent-based models for more granular simulations that capture individual behaviors.
 
 These enhancements would make the model more adaptable for public health planning and more representative of complex real-world scenarios.
+
+**Disclaimer:** Chatgpt are used for language polishing and code debugging. 
