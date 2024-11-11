@@ -9,10 +9,10 @@ BMI 500 Course Homework Week11
 **Question**: Sensitivity Analysis of the SEIR Model with Births and Deaths (Section D and E)
 
 ## Key Insights
-The SEIR model analysis provided critical insights into how the introduction of an exposed compartment and the inclusion of birth and death rates influence the dynamics of a pandemic. The sensitivity analysis demonstrated:
-- **Infection Peaks**: The timing and magnitude of peak infections are highly sensitive to changes in the transmission rate (\(\beta\)) and recovery rate (\(\gamma\)).
-- **Total Infections**: Variations in \(\beta\) and \(\gamma\) affect the total number of infected individuals over the course of the pandemic.
-- **Pandemic Waves**: The model indicated that with certain parameter values, multiple waves of infection could occur, resembling real-world pandemic behavior.
+The SEIR model analysis provided critical insights into how introducing an exposed compartment and including birth and death rates influence the dynamics of a pandemic. The sensitivity analysis demonstrated:
+- **Infection Peaks**: The timing and magnitude of peak infections are highly sensitive to changes in the transmission rate $(\beta)$ and recovery rate $(\gamma)$.
+- **Total Infections**: Variations in $(\beta)$ and $(\gamma)$ affect the pandemic's total number of infected individuals.
+- **Pandemic Waves**: The model indicated that multiple waves of infection could occur with certain parameter values, resembling real-world pandemic behavior.
 
 ## Comparative Model Performance
 Comparisons between the SIR and SEIR models highlighted that:
